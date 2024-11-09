@@ -198,11 +198,3 @@ https://pjreddie.com/yolo/.
 ### YOEO — You Only Encode Once
 
 [YOEO](https://github.com/bit-bots/YOEO) extends this repo with the ability to train an additional semantic segmentation decoder. The lightweight example model is mainly targeted towards embedded real-time applications.
-
-
-
-
-
-
-
-Agradecimientos al desarrollador Redmon, Joseph and Farhadi, Ali.
